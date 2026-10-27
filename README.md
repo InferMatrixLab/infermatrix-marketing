@@ -11,6 +11,7 @@
 | [afd_plugin](./afd_plugin/) | [vllm-project/afd-plugin](https://github.com/vllm-project/afd-plugin) |
 | [vllm_router](./vllm_router/) | [vllm-project/router](https://github.com/vllm-project/router) |
 | [agent_infer](./agent_infer/) | [openjiuwen-ai/agent-infer](https://github.com/openjiuwen-ai/agent-infer) |
+| [infer_rsi](./infer_rsi/) | [InferMatrixLab/InferRSI](https://github.com/InferMatrixLab/InferRSI) |
 | [vllm_rlt](./vllm_rlt/) | [ThinkFlowLab/vllm-rlt](https://github.com/ThinkFlowLab/vllm-rlt) |
 
 ## 材料范围
