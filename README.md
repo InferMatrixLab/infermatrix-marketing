@@ -13,6 +13,7 @@
 | [agent_infer](./agent_infer/) | [openjiuwen-ai/agent-infer](https://github.com/openjiuwen-ai/agent-infer) |
 | [infer_rsi](./infer_rsi/) | [InferMatrixLab/InferRSI](https://github.com/InferMatrixLab/InferRSI) |
 | [vllm_rlt](./vllm_rlt/) | [ThinkFlowLab/vllm-rlt](https://github.com/ThinkFlowLab/vllm-rlt) |
+| [vllm_gr](./vllm_gr/) | [vllm-project/vllm-gr](https://github.com/vllm-project/vllm-gr) |
 
 ## 材料范围
 
