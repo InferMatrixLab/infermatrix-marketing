@@ -1,1 +1,2 @@
 vllm_omni/video/Matrix-Game-4.mp4 filter=lfs diff=lfs merge=lfs -text
+vllm_gr/video/vLLM-GR_Claude优化版_90秒_2K.mp4 filter=lfs diff=lfs merge=lfs -text
